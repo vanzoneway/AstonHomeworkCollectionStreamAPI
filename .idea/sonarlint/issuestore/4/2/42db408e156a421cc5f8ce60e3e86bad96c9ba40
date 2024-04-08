@@ -1,6 +1,0 @@
-
-v	java:S116"URename this field "BEGIN_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ãõéüşÿÿÿÿ8Ç­Îöë1
-C
-java:S1170"!Make this final field static too.(Ãõéüşÿÿÿÿ8È­Îöë1
-G	java:S106c"+Replace this use of System.out by a logger.(Á—İø8ì­Îöë1
-L	java:S106d"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8í­Îöë1

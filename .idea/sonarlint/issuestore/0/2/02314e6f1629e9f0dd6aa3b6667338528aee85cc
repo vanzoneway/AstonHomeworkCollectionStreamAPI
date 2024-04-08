@@ -1,7 +1,0 @@
-
-g
-java:S1192	"JDefine a constant instead of duplicating this literal "Cambridge" 3 times.(ı…ÿ‡8‘ÙË÷ë1
-b
-java:S1854"@Remove this useless assignment to local variable "transactions".(´àƒåüÿÿÿÿ8˜ÙË÷ë1
-S
-java:S1481"1Remove this unused "transactions" local variable.(´àƒåüÿÿÿÿ8ŸÙË÷ë1
