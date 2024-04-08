@@ -80,6 +80,7 @@ public class CustomArrayList<T extends Comparable<? super T>> implements CustomL
       for (int j = 0; j < currentIndex - i - 1; j++) {
         //added here new lines to learn git
         //added here some
+        //added here some two
         T current = (T) array[j];
         T next = (T) array[j + 1];
         if (current.compareTo(next) > 0) {
