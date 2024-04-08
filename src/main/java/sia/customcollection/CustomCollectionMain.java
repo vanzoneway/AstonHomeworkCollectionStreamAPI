@@ -13,6 +13,7 @@ public class CustomCollectionMain {
     p.add("Ivanov");
     p.add("Arsen");
     p.add("Dima");
+    p.add("Ruslan");
     p.remove(0);
     p.remove(1);
 
